@@ -1,4 +1,20 @@
-A MSCT DataLabs Ltda é uma empresa de tecnologia especializada no desenvolvimento de soluções inteligentes baseadas em dados, automação e inteligência artificial. Atuamos criando sistemas modernos, eficientes e escaláveis que impulsionam empresas e usuários para o futuro da tecnologia.
-Nosso foco é transformar dados em valor real, oferecendo produtos que resolvem problemas de forma rápida, inteligente e automatizada.
-Desenvolvemos aplicações inovadoras, agentes inteligentes, integrações avançadas e plataformas que unem performance, usabilidade e IA.
-Na MSCT DataLabs, acreditamos que dados são o combustível da inovação, e nosso compromisso é usar tecnologia de ponta para construir soluções que facilitem a rotina, otimizem resultados e criem experiências verdadeiramente modernas.
+# MSCT DataLabs Ltda
+Transformando dados em inteligência.
+
+A MSCT DataLabs é uma empresa de tecnologia focada em criar soluções inteligentes utilizando Inteligência Artificial, análise de dados e automação. Nosso objetivo é transformar informação em conhecimento aplicável, desenvolvendo sistemas modernos e escaláveis.
+
+## 🚀 Produtos e Projetos
+### SmartBrief AI
+Um agente de IA que reúne, resume e organiza notícias em tempo real utilizando NLP, busca semântica e análise contextual.
+
+### DataLabs Core Systems
+Ferramentas internas de automação, análise e integração para acelerar processos e aumentar eficiência.
+
+### MSCT Labs
+Ambiente de pesquisa e desenvolvimento dos modelos de IA, protótipos e experimentos avançados.
+
+## 🌐 Missão
+Construir soluções tecnológicas inteligentes que simplificam processos e ampliam resultados.
+
+## 👨‍💻 Contato
+andre43br@hotmail.com
