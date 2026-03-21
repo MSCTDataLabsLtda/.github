@@ -2,6 +2,7 @@
 Transformando dados em inteligência.
 
 A MSCT DataLabs é uma empresa de tecnologia focada em criar soluções inteligentes utilizando Inteligência Artificial, análise de dados e automação. Nosso objetivo é transformar informação em conhecimento aplicável, desenvolvendo sistemas modernos e escaláveis.
+MSCT: Modern Systems & Cognitive Technology
 
 ## 🚀 Produtos e Projetos
 ### SmartBrief AI
